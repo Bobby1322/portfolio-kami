@@ -25,3 +25,4 @@ To practice different methods and approaches to this problem, I first built out 
 
 After reworking this project in Angular, I was very happy to see to decrease in code and increase in user experince. BlocJams is a simple, clean, and fun way to listen to music across all devices!
 
+ 
